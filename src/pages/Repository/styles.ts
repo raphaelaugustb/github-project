@@ -40,16 +40,18 @@ export const RepositoryInfo = styled.section`
         color: #3d3d4d;
       }
       p {
-        font-size: 10px;
-        color: #737380;
+        font-size: 14px;
+        color: #777980;
         margin-top: 4px;
+        font-family: Poppins;
       }
     }
   }
   ul {
     display: flex;
     list-style: none;
-    margin-top: 40px;
+    margin-top: 30px;
+    margin-left: 20px;
 
     li {
       & + li {

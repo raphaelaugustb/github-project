@@ -64,7 +64,7 @@ const Repository: React.FC = () => {
             />
             <div>
               <strong>{repository.full_name}</strong>
-              <p>Descrição do Repositório</p>
+              <p>{repository.description}</p>
             </div>
           </header>
           <ul>

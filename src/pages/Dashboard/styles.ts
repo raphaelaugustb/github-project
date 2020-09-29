@@ -93,9 +93,11 @@ export const Repositories = styled.div`
       flex: 1;
       strong {
         font-size: 20px;
-        color: 3d3d4d;
+        color: #3d3d4d;
+        font-family: Poppins;
       }
       p {
+        font-family: Poppins;
         font-size: 18px;
         color: #a8a8b3;
         margin-top: 4px;
